@@ -27,3 +27,9 @@ cd data
 kaggle datasets download -d allen-institute-for-ai/CORD-19-research-challenge
 unzip 
 ```
+
+5. Clean data
+```
+cd /home/ubuntu/covid19-challenge/notebook
+python clean-data.py
+```

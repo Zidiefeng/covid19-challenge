@@ -162,35 +162,14 @@ def generate_clean_df(all_files):
 
     return clean_df
 
-print("Loading custom_license data")
+print("Load pdf json Data")
 
-pmc_dir = '/home/ubuntu/covid19-challenge/data/custom_license/custom_license/pdf_json/'
+pmc_dir = '/home/ubuntu/covid19-challenge/data/document_parses/pdf_json/'
 pmc_files = load_files(pmc_dir)
 pmc_df = generate_clean_df(pmc_files)
-pmc_df.to_csv('/home/ubuntu/covid19-challenge/data/clean_pmc.csv', index=False)
+
+print("Save pdf json Data")
+
+pmc_df.to_csv('/home/ubuntu/covid19-challenge/data/clean_doc_pdf.csv', index=False)
 pmc_df.head()
 
-
-# In[28]:
-
-print("Loading comm_use_subset data")
-
-comm_dir = '/home/ubuntu/covid19-challenge/data/comm_use_subset/comm_use_subset/pdf_json/'
-comm_files = load_files(comm_dir)
-comm_df = generate_clean_df(comm_files)
-comm_df.to_csv('/home/ubuntu/covid19-challenge/data/clean_comm_use.csv', index=False)
-comm_df.head()
-
-
-# In[29]:
-print("Loading noncomm_use_subset data")
-
-
-noncomm_dir = '/home/ubuntu/covid19-challenge/data/noncomm_use_subset/noncomm_use_subset/pdf_json/'
-noncomm_files = load_files(noncomm_dir)
-noncomm_df = generate_clean_df(noncomm_files)
-noncomm_df.to_csv('/home/ubuntu/covid19-challenge/data/clean_noncomm_use.csv', index=False)
-noncomm_df.head()
-
-
-# In[ ]:

@@ -164,12 +164,12 @@ def generate_clean_df(all_files):
 
 print("Load pdf json Data")
 
-pmc_dir = '/home/ubuntu/covid19-challenge/data/document_parses/pdf_json/'
+pmc_dir = '../data/document_parses/pdf_json/'
 pmc_files = load_files(pmc_dir)
 pmc_df = generate_clean_df(pmc_files)
 
 print("Save pdf json Data")
 
-pmc_df.to_csv('/home/ubuntu/covid19-challenge/data/clean_doc_pdf.csv', index=False)
+pmc_df.to_csv('../data/clean_doc_pdf.csv', index=False)
 pmc_df.head()
 

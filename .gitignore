@@ -1,0 +1,5 @@
+data/
+*.txt
+*.json
+*.data
+.ipynb_checkpoints

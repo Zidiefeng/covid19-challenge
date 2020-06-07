@@ -164,28 +164,12 @@ def generate_clean_df(all_files):
 
 print("Load pdf json Data")
 
-<<<<<<< HEAD
-pmc_dir = '../data/document_parses/pdf_json/'
-=======
-#pdf_dir = '/home/jupyter/covid19-challenge/data/document_parses/pdf_json/'
-#pdf_files = load_files(pdf_dir)
-#pdf_df = generate_clean_df(pdf_files)
-
-#print("Save pdf json Data")
-
-#pdf_df.to_csv('/home/jupyter/covid19-challenge/data/clean_doc_pdf.csv', index=False)
-#pdf_df.head()
-
-pmc_dir = '/home/jupyter/covid19-challenge/data/document_parses/pmc_json/'
->>>>>>> Round_2
+#pmc_dir = '/home/ubuntu/covid19-challenge/data/document_parses/pdf_json/'
+pmc_dir = '/home/jupyter/covid19-challenge/data/document_parses/pdf_json/'
 pmc_files = load_files(pmc_dir)
 pmc_df = generate_clean_df(pmc_files)
+print("Save pdf json Data")
+# pmc_df.to_csv('/home/ubuntu/covid19-challenge/data/clean_doc_pdf.csv', index=False)
 
-print("Save pmc json Data")
-
-<<<<<<< HEAD
-pmc_df.to_csv('../data/clean_doc_pdf.csv', index=False)
-=======
-pmc_df.to_csv('/home/jupyter/covid19-challenge/data/clean_doc_pmc.csv', index=False)
->>>>>>> Round_2
+pmc_df.to_csv('/home/jupyter/covid19-challenge/data/clean_doc_pdf.csv', index=False)
 pmc_df.head()

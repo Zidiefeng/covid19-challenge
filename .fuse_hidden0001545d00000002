@@ -1,0 +1,542 @@
+[I 17:34:51.846 LabApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 17:34:52.240 LabApp] JupyterLab extension loaded from /home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/jupyterlab
+[I 17:34:52.240 LabApp] JupyterLab application directory is /home/rluo/anaconda3/envs/nlp/share/jupyter/lab
+[I 17:34:52.525 LabApp] Serving notebooks from local directory: /mnt/raid/projects/covid19-challenge
+[I 17:34:52.525 LabApp] The Jupyter Notebook is running at:
+[I 17:34:52.526 LabApp] http://localhost:8888/
+[I 17:34:52.526 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 17:34:52.534 LabApp] No web browser found: could not locate runnable browser.
+[I 23:08:27.670 LabApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 23:08:27.969 LabApp] JupyterLab extension loaded from /home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/jupyterlab
+[I 23:08:27.969 LabApp] JupyterLab application directory is /home/rluo/anaconda3/envs/nlp/share/jupyter/lab
+[I 23:08:27.973 LabApp] Serving notebooks from local directory: /mnt/raid/projects/covid19-challenge
+[I 23:08:27.973 LabApp] The Jupyter Notebook is running at:
+[I 23:08:27.973 LabApp] http://localhost:9100/
+[I 23:08:27.973 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:08:27.978 LabApp] No web browser found: could not locate runnable browser.
+[I 23:08:40.265 LabApp] 302 GET / (127.0.0.1) 1.40ms
+[I 23:08:40.275 LabApp] 302 GET /lab? (127.0.0.1) 1.68ms
+[I 23:08:44.229 LabApp] 302 POST /login?next=%2Flab%3F (127.0.0.1) 2.22ms
+[I 23:08:47.197 LabApp] Build is up to date
+[W 23:08:47.921 LabApp] 404 GET /api/contents/notes_project2?1590721727906 (127.0.0.1): No such file or directory: notes_project2
+[W 23:08:47.922 LabApp] No such file or directory: notes_project2
+[W 23:08:47.923 LabApp] 404 GET /api/contents/notes_project2?1590721727906 (127.0.0.1) 2.80ms referer=http://localhost:9100/lab?
+[W 23:09:07.194 LabApp] Notebook notebook/BERT_q1_exe.ipynb is not trusted
+[I 23:09:09.485 LabApp] Kernel started: 7b50ac49-0719-43c3-9b60-c3215da71c4a
+2020-05-28 23:09:25.001119: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer.so.6'; dlerror: libnvinfer.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-05-28 23:09:25.001369: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer_plugin.so.6'; dlerror: libnvinfer_plugin.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-05-28 23:09:25.001422: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:30] Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 23:11:08.974 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[W 23:11:08.975 LabApp] Notebook notebook/BERT_q1_exe.ipynb is not trusted
+[I 23:13:09.434 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[W 23:13:09.436 LabApp] Notebook notebook/BERT_q1_exe.ipynb is not trusted
+[I 23:15:10.058 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[W 23:15:10.060 LabApp] Notebook notebook/BERT_q1_exe.ipynb is not trusted
+[I 23:16:01.388 LabApp] Starting buffering for 7b50ac49-0719-43c3-9b60-c3215da71c4a:6c14991a-35ff-4836-99c9-cd0b7e92adb0
+[I 23:16:01.411 LabApp] Restoring connection for 7b50ac49-0719-43c3-9b60-c3215da71c4a:6c14991a-35ff-4836-99c9-cd0b7e92adb0
+[I 23:16:49.311 LabApp] Starting buffering for 7b50ac49-0719-43c3-9b60-c3215da71c4a:6c14991a-35ff-4836-99c9-cd0b7e92adb0
+[I 23:16:50.226 LabApp] Restoring connection for 7b50ac49-0719-43c3-9b60-c3215da71c4a:6c14991a-35ff-4836-99c9-cd0b7e92adb0
+[W 23:18:20.228 LabApp] WebSocket ping timeout after 90002 ms.
+[I 23:18:25.231 LabApp] Starting buffering for 7b50ac49-0719-43c3-9b60-c3215da71c4a:6c14991a-35ff-4836-99c9-cd0b7e92adb0
+[I 14:28:27.094 LabApp] Build is up to date
+[I 14:28:27.096 LabApp] Starting buffering for 7b50ac49-0719-43c3-9b60-c3215da71c4a:f4bf09c9-f48d-497a-9ff4-526a18cdc066
+[W 14:28:27.654 LabApp] Notebook notebook/BERT_q1_exe.ipynb is not trusted
+[W 14:33:47.459 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+[I 14:33:52.669 LabApp] Kernel started: 51470a50-84e2-4708-87f1-38a6a1af1a15
+[I 14:34:37.671 LabApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 14:35:50.290 LabApp] Saving file at /notebook/BERT_QA_Master.ipynb
+[W 14:35:50.294 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+2020-05-31 14:37:14.308622: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer.so.6'; dlerror: libnvinfer.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-05-31 14:37:14.308889: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer_plugin.so.6'; dlerror: libnvinfer_plugin.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-05-31 14:37:14.308947: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:30] Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 14:37:50.714 LabApp] Saving file at /notebook/BERT_QA_Master.ipynb
+[W 14:37:50.716 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+[I 14:39:51.141 LabApp] Saving file at /notebook/BERT_QA_Master.ipynb
+[W 14:39:51.143 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+[I 14:41:51.929 LabApp] Saving file at /notebook/BERT_QA_Master.ipynb
+[W 14:41:51.932 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+[I 14:43:52.322 LabApp] Saving file at /notebook/BERT_QA_Master.ipynb
+[W 14:43:52.324 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+[I 14:47:52.844 LabApp] Saving file at /notebook/BERT_QA_Master.ipynb
+[W 14:47:52.847 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+[I 14:49:37.714 LabApp] Kernel interrupted: 51470a50-84e2-4708-87f1-38a6a1af1a15
+[I 14:49:53.209 LabApp] Saving file at /notebook/BERT_QA_Master.ipynb
+[W 14:49:53.211 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+[I 14:51:53.467 LabApp] Saving file at /notebook/BERT_QA_Master.ipynb
+[W 14:51:53.469 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+[I 14:53:53.754 LabApp] Saving file at /notebook/BERT_QA_Master.ipynb
+[W 14:53:53.757 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+[I 15:07:54.105 LabApp] Saving file at /notebook/BERT_QA_Master.ipynb
+[W 15:07:54.107 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+[I 15:08:28.195 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[W 15:08:28.197 LabApp] Notebook notebook/BERT_q1_exe.ipynb is not trusted
+[I 15:10:28.833 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[W 15:10:28.834 LabApp] Notebook notebook/BERT_q1_exe.ipynb is not trusted
+[I 15:12:29.055 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[W 15:12:29.057 LabApp] Notebook notebook/BERT_q1_exe.ipynb is not trusted
+[I 16:08:39.533 LabApp] Copying notebook/BERT_QA_Master.ipynb to /notebook
+[W 16:08:39.582 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+[W 16:08:39.614 LabApp] Notebook notebook/BERT_QA_Master-Copy1.ipynb is not trusted
+[W 16:08:41.000 LabApp] Notebook notebook/BERT_QA_Master-Copy1.ipynb is not trusted
+[I 16:08:45.110 LabApp] Kernel started: a8f06e41-a4c5-4c55-b6ec-9422d3be9668
+[I 16:08:46.283 LabApp] Starting buffering for 51470a50-84e2-4708-87f1-38a6a1af1a15:d2469c48-f87a-4728-908c-cce163f8299f
+2020-05-31 16:09:01.356301: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer.so.6'; dlerror: libnvinfer.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-05-31 16:09:01.356604: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer_plugin.so.6'; dlerror: libnvinfer_plugin.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-05-31 16:09:01.356662: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:30] Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/logging/__init__.py", line 2033, in shutdown
+    h.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 16:09:07.450 LabApp] Kernel shutdown: 51470a50-84e2-4708-87f1-38a6a1af1a15
+[I 16:10:43.727 LabApp] Saving file at /notebook/create_df_for_exe.ipynb
+[W 16:10:43.729 LabApp] Notebook notebook/create_df_for_exe.ipynb is not trusted
+[W 16:11:15.165 LabApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[I 16:11:20.064 LabApp] Kernel interrupted: a8f06e41-a4c5-4c55-b6ec-9422d3be9668
+[W 16:11:20.702 LabApp] iopub messages resumed
+[I 16:11:50.140 LabApp] Kernel interrupted: a8f06e41-a4c5-4c55-b6ec-9422d3be9668
+[I 16:12:44.036 LabApp] Saving file at /notebook/create_df_for_exe.ipynb
+[W 16:12:44.038 LabApp] Notebook notebook/create_df_for_exe.ipynb is not trusted
+[W 16:13:01.308 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+[I 16:13:03.826 LabApp] Kernel started: 28029b46-c54e-4b53-bc62-36ab407685dc
+[I 16:14:44.270 LabApp] Saving file at /notebook/create_df_for_exe.ipynb
+[W 16:14:44.272 LabApp] Notebook notebook/create_df_for_exe.ipynb is not trusted
+[I 16:16:12.344 LabApp] Saving file at /notebook/create_df_for_exe.ipynb
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/logging/__init__.py", line 2033, in shutdown
+    h.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 16:16:23.492 LabApp] Kernel restarted: 7b50ac49-0719-43c3-9b60-c3215da71c4a
+2020-05-31 16:16:25.050956: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer.so.6'; dlerror: libnvinfer.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-05-31 16:16:25.051194: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer_plugin.so.6'; dlerror: libnvinfer_plugin.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-05-31 16:16:25.051308: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:30] Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 16:16:33.928 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/logging/__init__.py", line 2033, in shutdown
+    h.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 16:16:37.607 LabApp] Kernel restarted: 7b50ac49-0719-43c3-9b60-c3215da71c4a
+2020-05-31 16:16:39.206083: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer.so.6'; dlerror: libnvinfer.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-05-31 16:16:39.206352: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer_plugin.so.6'; dlerror: libnvinfer_plugin.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-05-31 16:16:39.206412: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:30] Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/logging/__init__.py", line 2033, in shutdown
+    h.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 16:16:54.740 LabApp] Kernel restarted: 7b50ac49-0719-43c3-9b60-c3215da71c4a
+2020-05-31 16:16:57.764649: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer.so.6'; dlerror: libnvinfer.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-05-31 16:16:57.764931: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer_plugin.so.6'; dlerror: libnvinfer_plugin.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-05-31 16:16:57.764990: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:30] Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 16:18:34.162 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[I 16:20:34.398 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[I 16:22:34.630 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[I 16:24:34.958 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[I 16:26:35.307 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[I 16:28:35.561 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[I 16:30:35.925 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[I 16:44:38.223 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[I 16:45:22.086 LabApp] Starting buffering for a8f06e41-a4c5-4c55-b6ec-9422d3be9668:d185b5e8-90ab-4c15-8450-cfff3f3250c2
+[I 16:45:22.088 LabApp] Starting buffering for 28029b46-c54e-4b53-bc62-36ab407685dc:837d88cb-9404-4b90-96c9-8b90b396a571
+[I 16:45:22.088 LabApp] Starting buffering for 7b50ac49-0719-43c3-9b60-c3215da71c4a:cdcf982f-75d4-47e7-89f0-ce15981a68e3
+Websocket closed
+[I 16:45:22.098 LabApp] Restoring connection for 28029b46-c54e-4b53-bc62-36ab407685dc:837d88cb-9404-4b90-96c9-8b90b396a571
+[I 16:45:22.124 LabApp] Restoring connection for a8f06e41-a4c5-4c55-b6ec-9422d3be9668:d185b5e8-90ab-4c15-8450-cfff3f3250c2
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 16:45:22.194 LabApp] Restoring connection for 7b50ac49-0719-43c3-9b60-c3215da71c4a:cdcf982f-75d4-47e7-89f0-ce15981a68e3
+[W 16:46:52.099 LabApp] WebSocket ping timeout after 90000 ms.
+[W 16:46:52.125 LabApp] WebSocket ping timeout after 90001 ms.
+[W 16:46:52.149 LabApp] WebSocket ping timeout after 90000 ms.
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[W 16:46:52.194 LabApp] WebSocket ping timeout after 90000 ms.
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 16:46:57.100 LabApp] Starting buffering for 28029b46-c54e-4b53-bc62-36ab407685dc:837d88cb-9404-4b90-96c9-8b90b396a571
+[I 16:46:57.127 LabApp] Starting buffering for a8f06e41-a4c5-4c55-b6ec-9422d3be9668:d185b5e8-90ab-4c15-8450-cfff3f3250c2
+Websocket closed
+[I 16:46:57.196 LabApp] Starting buffering for 7b50ac49-0719-43c3-9b60-c3215da71c4a:cdcf982f-75d4-47e7-89f0-ce15981a68e3
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 16:48:33.283 LabApp] Restoring connection for a8f06e41-a4c5-4c55-b6ec-9422d3be9668:d185b5e8-90ab-4c15-8450-cfff3f3250c2
+[I 16:48:33.307 LabApp] Restoring connection for 28029b46-c54e-4b53-bc62-36ab407685dc:837d88cb-9404-4b90-96c9-8b90b396a571
+[I 16:48:33.331 LabApp] Restoring connection for 7b50ac49-0719-43c3-9b60-c3215da71c4a:cdcf982f-75d4-47e7-89f0-ce15981a68e3
+[W 16:50:03.257 LabApp] WebSocket ping timeout after 90000 ms.
+[W 16:50:03.283 LabApp] WebSocket ping timeout after 90000 ms.
+[W 16:50:03.308 LabApp] WebSocket ping timeout after 90001 ms.
+[W 16:50:03.332 LabApp] WebSocket ping timeout after 90000 ms.
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Exception in callback BaseAsyncIOLoop._handle_events(73, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(73, 1)>
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 138, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/management.py", line 199, in pty_read
+    client.on_pty_read(s)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 64, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/terminado/websocket.py", line 68, in send_json_message
+    self.write_message(json_msg)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/notebook/terminal/handlers.py", line 41, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Websocket closed
+[I 16:50:08.284 LabApp] Starting buffering for a8f06e41-a4c5-4c55-b6ec-9422d3be9668:d185b5e8-90ab-4c15-8450-cfff3f3250c2
+[I 16:50:08.309 LabApp] Starting buffering for 28029b46-c54e-4b53-bc62-36ab407685dc:837d88cb-9404-4b90-96c9-8b90b396a571
+[I 16:50:08.333 LabApp] Starting buffering for 7b50ac49-0719-43c3-9b60-c3215da71c4a:cdcf982f-75d4-47e7-89f0-ce15981a68e3
+[I 17:04:16.432 LabApp] Build is up to date
+[I 17:04:16.797 LabApp] Starting buffering for 28029b46-c54e-4b53-bc62-36ab407685dc:6563d922-2bbf-4e57-951d-fc43bc021083
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 17:04:18.141 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/logging/__init__.py", line 2033, in shutdown
+    h.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 17:04:57.458 LabApp] Kernel restarted: 7b50ac49-0719-43c3-9b60-c3215da71c4a
+2020-06-01 17:05:01.935209: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer.so.6'; dlerror: libnvinfer.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-06-01 17:05:01.935459: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer_plugin.so.6'; dlerror: libnvinfer_plugin.so.6: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/mkl-dnn/lib:/usr/local/cuda/lib64::/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+2020-06-01 17:05:01.935517: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:30] Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 17:06:22.395 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+[I 17:08:23.418 LabApp] Saving file at /notebook/BERT_q1_exe.ipynb
+Websocket closed
+[I 17:13:30.315 LabApp] Starting buffering for 28029b46-c54e-4b53-bc62-36ab407685dc:84fa877c-0567-4e6c-adfb-da2af4177369
+[I 17:13:30.316 LabApp] Starting buffering for a8f06e41-a4c5-4c55-b6ec-9422d3be9668:f090a9ac-e8ba-4771-97ed-6e1ab3f68d08
+[I 17:13:30.317 LabApp] Starting buffering for 7b50ac49-0719-43c3-9b60-c3215da71c4a:844184a6-afaa-43cf-a3d3-a812288d5c8a
+[I 03:37:45.220 LabApp] 302 GET / (127.0.0.1) 0.68ms
+[I 03:37:47.480 LabApp] Build is up to date
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 03:37:48.096 LabApp] Notebook notebook/BERT_QA_Master.ipynb is not trusted
